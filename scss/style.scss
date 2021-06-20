@@ -8,8 +8,21 @@ body {
 }
 .t-bold {
   font-weight: $bold;
+  text-align: center;
+  letter-spacing: 2px;
 }
 .icon-size {
   font-size: 1.1rem;
-  color: #000000 !default;
+  color: #838181;
+}
+.arrow-down-sm {
+  font-size: 0.9rem;
+}
+.nav-left {
+  font-size: 0.9rem;
+  display: inline-block;
+}
+.nav-gap {
+  height: 25px;
+  border: 1px solid #8d8d8d;
 }
