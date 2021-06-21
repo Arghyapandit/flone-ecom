@@ -11482,11 +11482,12 @@ body {
 }
 
 .arrow-down-sm {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 .nav-left {
   font-size: 0.9rem;
+  display: inline-block;
 }
 
 .nav-gap {
